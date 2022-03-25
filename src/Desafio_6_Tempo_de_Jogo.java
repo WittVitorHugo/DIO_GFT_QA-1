@@ -6,7 +6,7 @@ import java.util.Scanner;
  * tendo uma duração mínima de, 60 minutos e máxima de 24 horas.
  */
 
-public class Desafio_6_empo_de_Jogo {
+public class Desafio_6_Tempo_de_Jogo {
 
     public static void main(String[] args){
 
