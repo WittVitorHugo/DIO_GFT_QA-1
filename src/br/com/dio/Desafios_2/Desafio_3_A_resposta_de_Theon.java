@@ -1,4 +1,4 @@
-package Desafios_2;
+package br.com.dio.Desafios_2;
 
 import java.io.IOException;
 import java.util.Scanner;

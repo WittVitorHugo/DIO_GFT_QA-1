@@ -1,14 +1,14 @@
-package Desafios_1;
+package br.com.dio.Desafios_1;
 
 import java.util.Scanner;
 
 /**
- * Leia dois valores inteiros identificados como variáveis A e B.
- * Calcule a soma entre elas e chame essa variável de SOMA.
- * A seguir escreva o valor desta variável.
+ * @author Vitor Hugo Witt
+ * Ler a distância (em Km) e calcular quanto tempo
+ * leva (em minutos) para a moto Y tomar essa distância da moto X.
  */
 
-public class Desafio_2_Soma_Simples {
+public class Desafio_1_Distancia {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
@@ -18,7 +18,7 @@ public class Desafio_2_Soma_Simples {
         A = sc.nextInt();
         B = sc.nextInt();
 
-        soma = A + B;
+        soma = A + B;  //insira as variáveis corretamente
 
         System.out.println("SOMA = " + soma);
 
